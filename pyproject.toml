@@ -1,0 +1,10 @@
+[project]
+name = "lost-life-time"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ruff>=0.6.7",
+    "streamlit>=1.38.0",
+]
